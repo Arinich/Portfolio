@@ -3,7 +3,7 @@
 
 | Название проекта  | Описание        | Стек          |
 |:-----------------: |:---------------:| -------------:|
-| [Выявление потенциально популярной интернет-игры]          | some wordy text |     **$1600** |
-| ([Game success](https://github.com/Arinich/Portfolio/tree/main/Game%20success))col 2 is          | centered        |         $12   |
-| zebra stripes     | are neat        |        ~~$1~~ |
+| [Выявление потенциально популярной интернет-игры]          |       |
+ ([Game success](https://github.com/Arinich/Portfolio/tree/main/Game%20success)) 
+| zebra stripes |   |
 
